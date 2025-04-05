@@ -1,1 +1,24 @@
-document.
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border: 2px solid black;
+    width: 40%;
+    height: 35%;
+}
+
+input {
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
